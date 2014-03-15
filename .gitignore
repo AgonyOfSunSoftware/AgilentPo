@@ -1,10 +1,6 @@
 <<<<<<< HEAD
 =======
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-[Bb]in/
-[Oo]bj/
-
-# mstest test results
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs) mstest test results
 TestResults
 
 >>>>>>> baf05c22f6a9df3c789e8c288cd156998ddd42f2
